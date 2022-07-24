@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: ctsm-py
+Version: 0.0.1
+Summary: Utilities for working with ctsm data
+Home-page: https://github.com/ncar/ctsm_py
+Maintainer: Joe Hamman
+Maintainer-email: jhamman@ucar.edu
+License: Apache
+Keywords: ctsm_py
+Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# test
+test repository
+
+
